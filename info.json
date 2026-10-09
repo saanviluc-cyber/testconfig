@@ -1,4 +1,6 @@
 {
-  "has_event": true,
-  "event_url": "https://tongitsclassicgame.site/"
+  "appName": "Baccarat Club: Card Game",
+  "packageName": "com.tattvabyte.baccaratclub",
+  "version": "1.0",
+  "isPublished": true
 }
